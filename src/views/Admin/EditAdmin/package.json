@@ -1,0 +1,6 @@
+{
+  "name": "EditAdmin",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EditAdmin.js"
+}

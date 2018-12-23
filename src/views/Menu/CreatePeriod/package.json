@@ -1,0 +1,6 @@
+{
+  "name": "CreatePeriod",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CreatePeriod.js"
+}

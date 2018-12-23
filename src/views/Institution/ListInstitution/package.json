@@ -1,0 +1,6 @@
+{
+  "name": "ListInstitution",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ListInstitution.js"
+}

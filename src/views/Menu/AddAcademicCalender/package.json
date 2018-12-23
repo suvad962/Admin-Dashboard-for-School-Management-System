@@ -1,0 +1,6 @@
+{
+  "name": "AddAcademicCalender",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AddAcademicCalender.js"
+}

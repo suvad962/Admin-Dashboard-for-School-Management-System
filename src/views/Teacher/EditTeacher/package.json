@@ -1,0 +1,6 @@
+{
+  "name": "EditTeacher",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EditTeacher.js"
+}
